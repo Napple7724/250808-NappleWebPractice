@@ -7,4 +7,4 @@
 ---
 * GitHub에서 마크다운 문서의 CSS 스타일이 불러와지지 않는 문제가 있습니다.  
 CSS 스타일까지 확인하려면 VSCode 등을 이용하세요.
-* **[HTML5 UP](https://html5up.net)의 aerial**에서 내용을 변형하였습니다. aerial 다운로드 시 받은 *README.txt* 및 *LICENSE.txt*는 *README(aerial).txt* 및 *license(aerial).txt* 로 저장해두었으니 참고 바랍니다.
+* **[HTML5 UP](https://html5up.net)의 Solid State**에서 내용을 변형하였습니다. Solid State 다운로드 시 받은 *README.txt* 및 *LICENSE.txt*는 *README(solid).txt* 및 *license(solid).txt* 로 저장해두었으니 참고 바랍니다.
